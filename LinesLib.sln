@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinesLib", "LinesLib\LinesLib.csproj", "{3063D313-EDE5-4608-8D2D-DDA612BCCB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineSegmentTests", "LineSegmentTests\LineSegmentTests.csproj", "{B2447374-7DFB-49BF-B006-BC69604F6371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3063D313-EDE5-4608-8D2D-DDA612BCCB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3063D313-EDE5-4608-8D2D-DDA612BCCB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3063D313-EDE5-4608-8D2D-DDA612BCCB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3063D313-EDE5-4608-8D2D-DDA612BCCB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2447374-7DFB-49BF-B006-BC69604F6371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2447374-7DFB-49BF-B006-BC69604F6371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2447374-7DFB-49BF-B006-BC69604F6371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2447374-7DFB-49BF-B006-BC69604F6371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5043EFCC-60C0-49B1-B101-2B8D97D48391}
+	EndGlobalSection
+EndGlobal
